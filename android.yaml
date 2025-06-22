@@ -1,2 +1,132 @@
 payload:
-- PROCESS-NAME,com.supercell.clashroyale #皇室战争国际服
+# === 热门手机游戏 ===
+# 策略类游戏
+- PROCESS-NAME,com.supercell.clashroyale #部落冲突:皇室战争
+- PROCESS-NAME,com.supercell.clashofclans #部落冲突 Clash of Clans
+- PROCESS-NAME,com.supercell.brawlstars #Brawl Stars
+- PROCESS-NAME,com.supercell.hayday #卡通农场
+- PROCESS-NAME,com.lilithgame.roc.gp #万国觉醒 RoK
+- PROCESS-NAME,com.igg.android.lordsmobile #王国纪元
+- PROCESS-NAME,com.topgamesinc.evony #Evony: The King's Return
+- PROCESS-NAME,com.gof.global #寒霜启示录
+- PROCESS-NAME,com.fun.lastwar.gp #Last War:Survival Game
+- PROCESS-NAME,com.igg.android.doomsdaylastsurvivors #黎明再现 Doomsday: Last Survivors
+
+# 射击类游戏
+- PROCESS-NAME,com.activision.callofduty.shooter #Call of Duty: Mobile
+- PROCESS-NAME,com.tencent.ig #PUBG MOBILE
+- PROCESS-NAME,com.dts.freefireth #Free Fire: 8周年
+- PROCESS-NAME,com.dts.freefiremax #Free Fire MAX
+- PROCESS-NAME,com.epicgames.fortnite #Fortnite
+- PROCESS-NAME,com.garena.game.codm #Call of Duty: Mobile
+- PROCESS-NAME,com.netease.g78na.gb #荒野行动
+
+# MOBA类游戏
+- PROCESS-NAME,com.tencent.tmgp.sgame #王者荣耀
+- PROCESS-NAME,com.mobile.legends #Mobile Legends: Bang Bang
+- PROCESS-NAME,com.riotgames.league.wildrift #League of Legends: Wild Rift
+- PROCESS-NAME,com.tencent.lolm #英雄联盟手游
+- PROCESS-NAME,com.garena.game.kgtw #传说对决
+- PROCESS-NAME,com.netease.dwrg #决战!平安京
+
+# RPG类游戏
+- PROCESS-NAME,com.miHoYo.GenshinImpact #原神
+- PROCESS-NAME,com.mihoyo.enterprise.NGHSoD #崩坏:星穹铁道
+- PROCESS-NAME,com.hypergryph.arknights #明日方舟
+- PROCESS-NAME,com.netease.onmyojigp #阴阳师
+- PROCESS-NAME,com.bandainamcoent.dblegends_ww #DRAGON BALL LEGENDS 七龙珠 激战传说
+- PROCESS-NAME,com.devsisters.ck #薜饼人王国
+- PROCESS-NAME,com.lilithgame.hgame.gp #剑与远征
+- PROCESS-NAME,com.netease.mrzh #第五人格
+- PROCESS-NAME,com.netease.hyxd.bilibili #崩坏学园2
+
+# 休闲益智类游戏
+- PROCESS-NAME,com.king.candycrushsaga #Candy Crush Saga
+- PROCESS-NAME,com.king.candycrushsodasaga #Candy Crush Soda Saga
+- PROCESS-NAME,com.dreamgames.royalmatch #Royal Match
+- PROCESS-NAME,com.dreamgames.royalkingdom #Royal Kingdom
+- PROCESS-NAME,com.block.juggle #Block Blast!
+- PROCESS-NAME,com.scopely.monopolygo #MONOPOLY GO!
+- PROCESS-NAME,com.funtomic.matchmasters #Match Masters
+- PROCESS-NAME,com.playrix.township #梦想小镇
+- PROCESS-NAME,com.playrix.gardenscapes #梦幻花园 Gardenscapes
+- PROCESS-NAME,com.playrix.homescapes #梦幻家园 Homescapes
+- PROCESS-NAME,com.gramgames.mergedragons #萌龙进化论 Merge Dragons!
+- PROCESS-NAME,com.GybeGames.ColorBlockJam #Color Block Jam
+- PROCESS-NAME,com.vitastudio.mahjong #Vita 麻将
+- PROCESS-NAME,com.yolo.hiddenobjects #Find Hidden Objects - Spot It!
+- PROCESS-NAME,com.easybrain.art.puzzle #Art Puzzle - 艺术拼图游戏
+
+# 动作冒险类游戏
+- PROCESS-NAME,com.kiloo.subwaysurf #地铁跑酷
+- PROCESS-NAME,com.imangi.templerun2 #Temple Run 2
+- PROCESS-NAME,com.robtopx.geometryjumplite #Geometry Dash Lite
+- PROCESS-NAME,com.innersloth.spacemafia #Among Us
+- PROCESS-NAME,com.fgol.HungrySharkEvolution #Hungry Shark Evolution
+- PROCESS-NAME,com.ubisoft.hungrysharkworld #Hungry Shark World
+- PROCESS-NAME,com.nekki.shadowfight #Shadow Fight 2
+- PROCESS-NAME,com.halfbrick.fruitninja #水果忍者
+- PROCESS-NAME,com.ea.games.pvz2_row #植物大战僵尸2
+- PROCESS-NAME,com.os.airforce #1945空军
+- PROCESS-NAME,com.rovio.baba #Angry Birds 2
+- PROCESS-NAME,com.nekki.vector #Vector
+
+# 体育竞技类游戏
+- PROCESS-NAME,com.miniclip.eightballpool #8 Ball Pool
+- PROCESS-NAME,com.ea.gp.fifamobile #EA SPORTS FC Mobile 足球
+- PROCESS-NAME,eu.nordeus.topeleven.android #Top Eleven 2025
+- PROCESS-NAME,jp.konami.pesam #eFootball
+- PROCESS-NAME,com.playdemic.golf.android #Golf Clash
+- PROCESS-NAME,com.tencent.tmgp.speedmobile #QQ飞车
+
+# 赛车类游戏
+- PROCESS-NAME,com.gameloft.android.ANMP.GloftA9HM #狂野飙车:传奇大集结
+- PROCESS-NAME,com.gameloft.android.ANMP.GloftA8HM #狂野飙车8
+- PROCESS-NAME,com.ea.gp.nfs.na #Need for Speed: No Limits
+
+# 沙盒建造类游戏
+- PROCESS-NAME,com.mojang.minecraftpe #Minecraft
+- PROCESS-NAME,com.roblox.client #Roblox
+- PROCESS-NAME,com.tocaboca.tocalifeworld #Toca Boca World
+
+# 音乐类游戏
+- PROCESS-NAME,com.youmusic.magictiles #Magic Tiles 3 - 钢琴游戏
+- PROCESS-NAME,com.bunbunstudio.magicblocktiles #Music Piano 7
+- PROCESS-NAME,com.ubisoft.jddanceparty #Just Dance Now
+
+# 卡牌类游戏
+- PROCESS-NAME,jp.pokemon.pokemontcgp #Pokemon TCG Pocket
+- PROCESS-NAME,com.blizzard.wtcg.hearthstone #炉石传说
+- PROCESS-NAME,com.matteljv.uno #UNO!
+- PROCESS-NAME,com.zynga.words3 #Words With Friends Word Game
+
+# 模拟经营类游戏
+- PROCESS-NAME,com.outfit7.mytalkingtom2 #我的汤姆猫2
+- PROCESS-NAME,com.outfit7.mytalkingtom #我的汤姆猫
+- PROCESS-NAME,com.outfit7.mytalkinghank #我的汉克狗:群岛
+- PROCESS-NAME,com.outfit7.talkingtom2 #会说话的汤姆猫2
+- PROCESS-NAME,com.outfit7.talkingben #Talking Ben the Dog
+- PROCESS-NAME,com.outfit7.talkingginger2 #Talking Ginger 2
+- PROCESS-NAME,com.vizorapps.klondike #Klondike Adventures
+- PROCESS-NAME,com.king.farmheroessaga #Farm Heroes Saga
+- PROCESS-NAME,com.zynga.farmville3 #FarmVille 3
+
+# IO类游戏
+- PROCESS-NAME,io.voodoo.holeio #Hole.io
+- PROCESS-NAME,io.supercent.linkedcubic #蛇冲突 Snake Clash
+- PROCESS-NAME,com.wildspike.wormszone #Worms Zone .io - Hungry Snake
+- PROCESS-NAME,com.miniclip.agar.io #Agar.io
+
+# AR/VR类游戏
+- PROCESS-NAME,com.nianticlabs.pokemongo #Pokemon GO
+
+# 其他热门游戏
+- PROCESS-NAME,com.lockwoodpublishing.avakinlife #Avakin Life - 3D 虚拟世界
+- PROCESS-NAME,com.movile.playkids.pkxd #PK XD: Fun, friends & games
+- PROCESS-NAME,com.run.tower.defense #Kingshot
+- PROCESS-NAME,com.tap4fun.ape.gplay #Age of Apes: 猿族时代
+- PROCESS-NAME,com.gameinsight.goc #Gods of Olympus
+- PROCESS-NAME,com.glu.deer #Deer Hunter Classic
+- PROCESS-NAME,com.ninekyu.panzer.android #装甲前线
+- PROCESS-NAME,com.miniclip.solitaire #Solitaire
+- PROCESS-NAME,com.miniclip.darts #8 Ball Pool - Miniclip

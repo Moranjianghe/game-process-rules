@@ -1,0 +1,112 @@
+payload:
+# === Windows热门游戏进程名 ===
+# MOBA类游戏
+- PROCESS-NAME,League of Legends.exe #英雄联盟
+- PROCESS-NAME,LeagueClient.exe #英雄联盟客户端
+- PROCESS-NAME,LeagueClientUx.exe #英雄联盟客户端UX
+- PROCESS-NAME,Dota 2.exe #Dota 2
+- PROCESS-NAME,dota2.exe #Dota 2
+
+# 射击类游戏
+- PROCESS-NAME,valorant.exe #无畏契约
+- PROCESS-NAME,VALORANT-Win64-Shipping.exe #无畏契约
+- PROCESS-NAME,csgo.exe #CS:GO
+- PROCESS-NAME,cs2.exe #Counter-Strike 2
+- PROCESS-NAME,TslGame.exe #绝地求生
+- PROCESS-NAME,FortniteClient-Win64-Shipping.exe #堡垒之夜
+- PROCESS-NAME,Overwatch.exe #守望先锋
+- PROCESS-NAME,OverwatchLauncher.exe #守望先锋启动器
+- PROCESS-NAME,Apex Legends.exe #Apex英雄
+- PROCESS-NAME,r5apex.exe #Apex英雄
+- PROCESS-NAME,RainbowSix.exe #彩虹六号：围攻
+- PROCESS-NAME,RainbowSixGame.exe #彩虹六号：围攻
+
+# 大逃杀类游戏
+- PROCESS-NAME,PUBG.exe #绝地求生
+- PROCESS-NAME,TslGame.exe #绝地求生
+- PROCESS-NAME,FortniteClient-Win64-Shipping.exe #堡垒之夜
+- PROCESS-NAME,BlackOps4.exe #使命召唤：黑色行动4
+
+# RPG类游戏
+- PROCESS-NAME,YuanShen.exe #原神
+- PROCESS-NAME,GenshinImpact.exe #原神
+- PROCESS-NAME,StarRail.exe #崩坏：星穹铁道
+- PROCESS-NAME,Honkai Impact 3rd.exe #崩坏3
+- PROCESS-NAME,BH3.exe #崩坏3
+- PROCESS-NAME,WutheringWaves.exe #鸣潮
+- PROCESS-NAME,TheFinalShape.exe #命运2
+- PROCESS-NAME,destiny2.exe #命运2
+- PROCESS-NAME,Diablo III64.exe #暗黑破坏神3
+- PROCESS-NAME,Diablo IV.exe #暗黑破坏神4
+- PROCESS-NAME,PathOfExile.exe #流放之路
+- PROCESS-NAME,PathOfExile_x64.exe #流放之路
+
+# 沙盒建造类游戏
+- PROCESS-NAME,Minecraft.exe #我的世界
+- PROCESS-NAME,MinecraftLauncher.exe #我的世界启动器
+- PROCESS-NAME,javaw.exe #我的世界Java版
+- PROCESS-NAME,Terraria.exe #泰拉瑞亚
+- PROCESS-NAME,valheim.exe #英灵神殿
+- PROCESS-NAME,7DaysToDie.exe #七日杀
+
+# 竞速类游戏
+- PROCESS-NAME,ForzaHorizon5.exe #极限竞速：地平线5
+- PROCESS-NAME,ForzaHorizon4.exe #极限竞速：地平线4
+- PROCESS-NAME,NeedForSpeed.exe #极品飞车
+- PROCESS-NAME,NFSHEAT.exe #极品飞车：热度
+- PROCESS-NAME,dirt5.exe #尘埃5
+- PROCESS-NAME,F1_22.exe #F1 22
+
+# 策略类游戏
+- PROCESS-NAME,AoE2DE_s.exe #帝国时代2决定版
+- PROCESS-NAME,AoE4.exe #帝国时代4
+- PROCESS-NAME,Civ6.exe #文明6
+- PROCESS-NAME,CivilizationVI.exe #文明6
+- PROCESS-NAME,TotalWarWarhammer3.exe #全面战争：战锤3
+- PROCESS-NAME,starcraft2.exe #星际争霸2
+- PROCESS-NAME,SC2.exe #星际争霸2
+
+# 休闲益智类游戏
+- PROCESS-NAME,Among Us.exe #Among Us
+- PROCESS-NAME,FallGuys_client.exe #糖豆人
+- PROCESS-NAME,RocketLeague.exe #火箭联盟
+- PROCESS-NAME,Cuphead.exe #茶杯头
+- PROCESS-NAME,Hades.exe #哈迪斯
+
+# 模拟类游戏
+- PROCESS-NAME,Cities.exe #城市天际线
+- PROCESS-NAME,TheSims4.exe #模拟人生4
+- PROCESS-NAME,TS4.exe #模拟人生4
+- PROCESS-NAME,EuroTruckSimulator2.exe #欧洲卡车模拟2
+- PROCESS-NAME,ets2.exe #欧洲卡车模拟2
+- PROCESS-NAME,AmericanTruckSimulator.exe #美国卡车模拟
+- PROCESS-NAME,ats.exe #美国卡车模拟
+
+# 动作冒险类游戏
+- PROCESS-NAME,GTA5.exe #侠盗猎车手5
+- PROCESS-NAME,GTAVLauncher.exe #侠盗猎车手5启动器
+- PROCESS-NAME,RDR2.exe #荒野大镖客：救赎2
+- PROCESS-NAME,Cyberpunk2077.exe #赛博朋克2077
+- PROCESS-NAME,ac_odyssey.exe #刺客信条：奥德赛
+- PROCESS-NAME,ACValhalla.exe #刺客信条：英灵殿
+- PROCESS-NAME,witcher3.exe #巫师3：狂猎
+- PROCESS-NAME,EldenRing.exe #艾尔登法环
+- PROCESS-NAME,sekiro.exe #只狼：影逝二度
+- PROCESS-NAME,DarkSoulsIII.exe #黑暗之魂3
+
+# 体育类游戏
+- PROCESS-NAME,FIFA23.exe #FIFA 23
+- PROCESS-NAME,eafc24.exe #EA Sports FC 24
+- PROCESS-NAME,PES2021.exe #实况足球2021
+- PROCESS-NAME,NBA2K23.exe #NBA 2K23
+- PROCESS-NAME,NBA2K24.exe #NBA 2K24
+
+# 卡牌类游戏
+- PROCESS-NAME,Hearthstone.exe #炉石传说
+- PROCESS-NAME,Gwent.exe #昆特牌
+- PROCESS-NAME,MTGA.exe #万智牌竞技场
+
+# 音乐类游戏
+- PROCESS-NAME,osu!.exe #osu!
+- PROCESS-NAME,Beat Saber.exe #节拍军刀
+- PROCESS-NAME,Rocksmith2014.exe #摇滚史密斯2014

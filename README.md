@@ -17,9 +17,11 @@
   windows-game:
     type: http
     behavior: classical
-    url: https://raw.githubusercontent.com/moranjianghe/game-process-rules/main/android.yaml
+    url: https://raw.githubusercontent.com/moranjianghe/game-process-rules/main/windows.yaml
     path: ./rule_providers/windows-game.yaml
     interval: 86400
 ```
 
-自用规则，随缘更新
+自用规则，随缘更新。
+
+性能可能不太好，谨慎使用。
