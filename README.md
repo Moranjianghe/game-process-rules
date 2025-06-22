@@ -1,0 +1,25 @@
+# 哔哩哔哩规则
+
+## 安卓游戏
+
+```yaml
+  android-game:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/moranjianghe/game-process-rules/main/android.yaml
+    path: ./rule_providers/android-game.yaml
+    interval: 86400
+```
+
+## Windows 游戏
+
+```yaml
+  windows-game:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/moranjianghe/game-process-rules/main/android.yaml
+    path: ./rule_providers/windows-game.yaml
+    interval: 86400
+```
+
+自用规则，随缘更新
