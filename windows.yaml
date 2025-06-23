@@ -1,5 +1,21 @@
 payload:
 # === Windows热门游戏进程名 ===
+
+- PROCESS-PATH-REGEX,.*\steamapps\common\.* # Steam目录，Steam 下载的工具也可能在此目录
+- PROCESS-PATH-REGEX,.*\Epic Games\.* # Epic Games游戏目录
+#- PROCESS-PATH-REGEX,.*\WindowsApps\.* # 微软商店/Xbox游戏目录，误触发概率较高，许多非游戏UWP应用也在此目录
+- PROCESS-PATH-REGEX,.*\Riot Games\.* # Riot游戏目录
+- PROCESS-PATH-REGEX,.*\Battle.net\.* # 暴雪Battle.net游戏目录
+- PROCESS-PATH-REGEX,.*\Blizzard Entertainment\.* # 暴雪游戏目录
+- PROCESS-PATH-REGEX,.*\Origin Games\.* # Origin游戏目录
+- PROCESS-PATH-REGEX,.*\EA Games\.* # EA App游戏目录
+- PROCESS-PATH-REGEX,.*\Ubisoft Game Launcher\games\.* # 育碧游戏目录
+- PROCESS-PATH-REGEX,.*\GOG Galaxy\Games\.* # GOG游戏目录
+- PROCESS-PATH-REGEX,.*\WeGameApps\.* # WeGame游戏目录
+- PROCESS-PATH-REGEX,.*\CubeGame\.* # 方块游戏平台
+# - PROCESS-PATH-REGEX,.*\NetEase\.* # 网易游戏，部分网易非游戏软件也可能在此目录
+
+
 # MOBA类游戏
 - PROCESS-NAME,League of Legends.exe #英雄联盟
 - PROCESS-NAME,LeagueClient.exe #英雄联盟客户端
@@ -110,3 +126,6 @@ payload:
 - PROCESS-NAME,osu!.exe #osu!
 - PROCESS-NAME,Beat Saber.exe #节拍军刀
 - PROCESS-NAME,Rocksmith2014.exe #摇滚史密斯2014
+
+- PROCESS-PATH-REGEX,.*Minecraft.* #我的世界
+
