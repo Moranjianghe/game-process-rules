@@ -1,7 +1,7 @@
 payload:
 # === Windows热门游戏进程名 ===
 
-- PROCESS-PATH-REGEX,.*\steamapps\common\.* # Steam目录，Steam 下载的工具也可能在此目录
+- PROCESS-PATH-REGEX,.*\\steamapps\\common\\.* # Steam目录，包括默认和自定义库目录
 - PROCESS-PATH-REGEX,.*\Epic Games\.* # Epic Games游戏目录
 #- PROCESS-PATH-REGEX,.*\WindowsApps\.* # 微软商店/Xbox游戏目录，误触发概率较高，许多非游戏UWP应用也在此目录
 - PROCESS-PATH-REGEX,.*\Riot Games\.* # Riot游戏目录
@@ -36,6 +36,7 @@ payload:
 - PROCESS-NAME,r5apex.exe #Apex英雄
 - PROCESS-NAME,RainbowSix.exe #彩虹六号：围攻
 - PROCESS-NAME,RainbowSixGame.exe #彩虹六号：围攻
+- PROCESS-NAME,DeltaForceClient-Win64-Shipping.exe #三角洲部队
 
 # 大逃杀类游戏
 - PROCESS-NAME,PUBG.exe #绝地求生
