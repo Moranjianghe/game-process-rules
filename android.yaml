@@ -133,4 +133,14 @@ payload:
 
 - PROCESS-NAME,nullsroyale.rel.free #Null's Royale
 
-- PROCESS-NAME-REGEX,supercell # Supercell游戏
+# 游戏公司正则匹配
+- PROCESS-NAME-REGEX,.*\.supercell\. # Supercell游戏
+- PROCESS-NAME-REGEX,.*\.mihoyo\. # 米哈游
+- PROCESS-NAME-REGEX,.*\.riotgames\. # Riot Games
+- PROCESS-NAME-REGEX,.*\.epicgames\. # Epic Games
+#- PROCESS-NAME-REGEX,.*\.king\. # King游戏
+- PROCESS-NAME-REGEX,.*\.playrix\. # Playrix游戏
+- PROCESS-NAME-REGEX,.*\.lilithgame\. # 莉莉丝游戏
+- PROCESS-NAME-REGEX,.*\.dreamgames\. # Dream Games
+- PROCESS-NAME-REGEX,.*\.rovio\. # Rovio
+- PROCESS-NAME-REGEX,.*\.garena\.game\. # Garena游戏平台
