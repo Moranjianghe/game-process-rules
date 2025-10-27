@@ -130,3 +130,7 @@ payload:
 - PROCESS-NAME,com.ninekyu.panzer.android #装甲前线
 - PROCESS-NAME,com.miniclip.solitaire #Solitaire
 - PROCESS-NAME,com.miniclip.darts #8 Ball Pool - Miniclip
+
+- PROCESS-NAME,nullsroyale.rel.free #Null's Royale
+
+- PROCESS-NAME-REGEX,supercell # Supercell游戏
