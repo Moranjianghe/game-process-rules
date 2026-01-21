@@ -1,7 +1,7 @@
 payload:
 
 - PROCESS-NAME,game.exe #通用游戏进程名
-- PROCESS-NAME,Games.exe # 匹配大小写为 Games.exe 的游戏进程（如 GRYPHLINK）
+- PROCESS-NAME,Games.exe 
 
 # === Windows热门游戏进程名 ===
 
