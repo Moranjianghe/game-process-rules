@@ -39,6 +39,11 @@ payload:
 - PROCESS-NAME,com.lilithgame.hgame.gp #剑与远征
 - PROCESS-NAME,com.netease.mrzh #第五人格
 - PROCESS-NAME,com.netease.hyxd.bilibili #崩坏学园2
+- PROCESS-NAME,com.qookkagames.codekite.gp.hk #代号鸢
+- PROCESS-NAME,com.lingxigames.yuan.cn.aligames #代号鸢(如鸢)-阿里渠道
+- PROCESS-NAME,com.lingxigames.yuan.cn.guanwanganzhuo #代号鸢(如鸢)-官网安卓
+- PROCESS-NAME,com.lingxigames.yuan.cn.huawei #代号鸢(如鸢)-华为渠道
+- PROCESS-NAME-REGEX,com\.lingxigames\.yuan\.cn\..* #代号鸢(如鸢)-国服渠道包
 
 # 休闲益智类游戏
 - PROCESS-NAME,com.king.candycrushsaga #Candy Crush Saga
